@@ -43,10 +43,6 @@ When it came to making choices about university, I had two choices: Music or Med
 
 I very rarely sing anymore, but I can often be found at the piano. Unfortunately I don’t have any videos of any recent performances (primarily due to a lack of time to do anything other than physics!!) but here are a couple from when I was much younger, before beginning my studies in Glasgow.
 
-You can use the [editor on GitHub](https://github.com/jmhislop/jmhislop.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
