@@ -1,6 +1,6 @@
 ## Jessica May Hislop
 
-[Link] (https://jmhislop.github.io/researchblog)
+<a href="https://jmhislop.github.io/researchblog" title="Research Blog">About Me</a>
 
 Currently a PhD student at the Max Planck Institute for Astrophysics (MPA) in Garching, Germany working with Thorsten Naab.
 
