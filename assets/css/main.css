@@ -2672,19 +2672,13 @@ input, select, textarea {
 
 		.image.fit75 {
 			display: block;
-			margin: 0 0 1rem 0;
-			width: 75%;
+			margin: 0 1rem 1rem;
+			width: 100%;
 		}
 
 			.image.fit img {
 				width: 75%;
 			}
-		
-		.image.fit75 {
-			float: left;
-			margin: 0 1rem 0.5rem 0;
-			top: 0.5rem;
-		}
 
 		.image.main {
 			display: block;
