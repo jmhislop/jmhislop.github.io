@@ -2670,6 +2670,16 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.fit75 {
+			display: block;
+			margin: 0 0 1.5rem 0;
+			width: 75%;
+		}
+
+			.image.fit img {
+				width: 75%;
+			}
+
 		.image.main {
 			display: block;
 			margin: 0 0 3rem 0;
